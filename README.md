@@ -1,6 +1,6 @@
 # Elevator-Game
 
-Welcome to CheckIn! This is a java consolew game, where the object of the game is to use the two provided elevators to 
+Welcome to CheckIn! This is a java console game, where the object of the game is to use the two provided elevators to 
 transport each guest to their desired floor.
         
 By default, the building will have 10 floors above ground and 10 floors below. The only floor that these two elevators 
